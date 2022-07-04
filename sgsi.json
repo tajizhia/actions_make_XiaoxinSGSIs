@@ -5,7 +5,7 @@
   "rom_url": "https://bigota.d.miui.com/V12.0.3.0.QGGCNXM/miui_BEGONIA_V12.0.3.0.QGGCNXM_42e1368dc7_10.0.zip",
   "rom_name": "miui_BEGONIA_V12.0.3.0.QGGCNXM_42e1368dc7_10.0.zip",
   "pack_sgsi": "miui_BEGONIA_V12.0.3.0.QGGCNXM_42e1368dc7_10.0.zip",
-  "make_miui": ture,
+  "make_miui": true,
   "make_flyme": false,
   "make_coloros": false,
   "make_h2os": false,
